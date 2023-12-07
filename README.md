@@ -1,2 +1,2 @@
-# Pragati-Aily-KODBAF450-
+# Pragati-Aily
 Note: All programs written in Java
